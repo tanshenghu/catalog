@@ -1,0 +1,30 @@
+{
+  "family": "widget",
+  "name": "catalog",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "http://git.oschina.net/tanshenghu/myweb/tree/widget/1.0.0/catalog",
+  "author": "谭生虎",
+  "maintainers": [
+    "谭生虎 <tanshenghu@163.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://git.oschina.net/tanshenghu/myweb/tree/widget/1.0.0/catalog.git"
+  },
+  "bugs": {
+    "url": "http://git.oschina.net/tanshenghu/myweb/tree/widget/1.0.0/catalog/issues"
+  },
+  "keywords": [],
+  "licenses": "tsh_worker",
+  "spm": {
+    "output": [
+      "catalog.js"
+    ],
+    "alias": {
+      "$" : "$"
+    },
+    "devAlias": {},
+    "engines": {}
+  }
+}
